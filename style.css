@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+font-family: 'Gentium Book Plus', serif;
+margin: 0;
+}
+
+.heading{
+    background: linear-gradient(to bottom, rgba(230, 35, 35, 0) 0.5%,
+              #1A1A1A), url("images/donation13.jpg");
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.heading h1,p{
+    color: white;
+    margin-left: 11.1vw;
+   text-align: justify;
+
+}
+.heading h1{
+    font-size: 50px;
+    padding-top: 20vh;
+}
+.heading button{
+    position: relative;
+    top: 3vh;
+    left: 11.1vw;
+}
+button{
+    border: none;
+    padding: 15px 30px;
+    border-radius: 7px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #EF233C;
+    color: white;
+}
+main{
+    padding: 40px;
+}
+.donation{
+    display: flex;
+  
+}
+.donation p{
+    color: black;
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+}
+
+.donation img{
+    width: 45vw;
+    border-radius: 10px;
+    height: 53vh;
+}
+.donation-1{
+    width: 40vw;
+    padding-right: 40px;
+    margin-left: 6vw;
+}
+
+.donation-1 button{
+    margin-top: 10px;
+}
+.suvive{
+    margin-left: 6vw;
+}
+.loves-blog-post p,h1{
+color: black;
+margin: 0;
+text-align: center;
+
+}
+.parents{
+    display: flex;
+    margin-left: 15vw;
+}
+
+.lives-depends-card{
+    margin-top: 50px;
+    margin-left: 20px;
+    display: flex;
+    padding: 50px;
+    border-radius: 10px;
+    width: 25vw;
+    height: 160px ;
+    background-color: #FEF4F5; 
+}
+
+.Direct-help{
+    padding-left: 2vw;
+    margin: 0;
+}
+.Direct-help p{
+    text-align: justify;
+    margin: 0;
+}
+.Direct-help h1{
+    text-align: justify;
+    margin: 0;
+}
+.child-post img{
+    margin-top: 10px;   
+}
+.image-blog{
+    display: flex;
+}
+.image-post{
+    margin-left: 20px;
+    padding: 20px; 
+    margin-top: 40px;
+}
+.image-post img{
+    width: 28vw;
+    border-radius: 15px; 
+}
+.charity-parents-card{
+    display: flex;
+}
+.Charity{
+    margin-left: 10vw;
+    margin-top: 50px;
+   
+}
+.charity-card{
+    margin-top: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 25vw;
+    border-radius: 10px;
+    margin-left: 20px;
+    
+}
+.charity-card img{
+    width: 25vw;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.charity-header h2{
+    text-align: center;
+    
+}
+.charity-header p{
+    color: black;
+    margin: 0;
+    text-align: center;
+    
+}
+.charity-card h3{
+    padding-top: 30px;
+    padding-left: 30px;
+    margin: 0;
+}
+.charity-card p{
+    color: black;
+    margin: 0;
+    padding: 30px;
+}
+
+.charity-card button{
+    border-radius: 0;
+    width: 25vw;
+}
+footer{
+    margin-top: 45px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+
+}
+footer h2{
+    text-align: center;
+    margin: 0;
+}
+footer p{
+    text-align: center;
+    margin: 0;
+}
